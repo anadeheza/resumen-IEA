@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IEA</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 20px; 
+        }
+
+        #content { 
+            background: #e1eef7; 
+            padding: 20px; 
+            border-radius: 20px; 
+        }
+    </style>
+</head>
+<body>
+    <div id="content">Cargando contenido...</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        // ruta del archivo 
+        const mdFile = 'IEA.md';
+
+        // cargar el archivo y convertirlo a HTML
+        fetch(mdFile)
+            .then(response => {
+                if (!response.ok) throw new Error("No se pudo cargar el archivo");
+                return response.text();
+            })
+            .then(markdown => {
+                document.getElementById('content').innerHTML = marked.parse(markdown);
+            })
+            .catch(error => {
+                document.getElementById('content').innerHTML = `<p style="color:red;">Error: ${error.message}</p>`;
+            });
+    </script>
+
+
+</body>
+</html>
