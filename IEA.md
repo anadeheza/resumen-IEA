@@ -1,120 +1,92 @@
-# IEA 
-Desde su fundación en 1978, Ingeniería Electrónica Argentina ha estado implementando soluciones de automatización industrial que integran procesos y optimizan la eficiencia energética. 
+# Ingeniería Electrónica Argentina (IEA)
 
-Se enfoca en I4.0 y IIoT, lo que impulsa el desarrollo de software industrial, asegurando la conectividad y la seguridad en todos sus proyectos globalmente.
+Desde su fundación en 1978, **Ingeniería Electrónica Argentina (IEA)** implementa soluciones de automatización industrial que integran procesos y optimizan la eficiencia energética. Con más de cuatro décadas de trayectoria, la empresa se posiciona como referente en Industria 4.0 (I4.0) e Internet Industrial de las Cosas (IIoT), impulsando el desarrollo de software industrial y garantizando conectividad y seguridad en cada uno de sus proyectos a nivel global.
 
-IEA busca **crear soluciones** que ayuden a las industrias a mejorar sus procesos mediante la *automatización* de los mismos, para ello cuenta con equipos multidisiplinarios, los cuales diseñan y fabrican productos electrónicos como controladores, indicadores, adquisidores de datos, como asi tambien tableros, medidores, sensores y mas. Cuenta con un area de desarrollo e ingenieria que diseña e implementa software industrial para manejar diversos procesos y conexiones entre , con más de **10000** proyectos, se destaca tanto en el mercado local como en el internacional.
+IEA diseña y fabrica soluciones que permiten a las industrias mejorar sus procesos mediante la automatización. Para ello, cuenta con equipos multidisciplinarios que desarrollan productos electrónicos —controladores, indicadores, adquisidores de datos, tableros, medidores y sensores, entre otros— y con un área de ingeniería y desarrollo que diseña e implementa software industrial para gestionar procesos y conexiones. Con más de **10.000 proyectos ejecutados**, IEA se destaca tanto en el mercado local como en el internacional.
 
-Promueve la sostenibilidad y el bien social con proyectos que, además de mejorar la eficiencia, tienen un impacto positivo en las comunidades y el medio ambiente, con el uso responsable de recursos, la implementación de tecnologías verdes y el impulso de la seguridad en el trabajo.
+La empresa promueve la sostenibilidad y el bien social a través de proyectos que, además de mejorar la eficiencia operativa, generan un impacto positivo en las comunidades y el medioambiente mediante el uso responsable de recursos, la implementación de tecnologías verdes y el fomento de la seguridad laboral.
 
-> La ingeniería y la ejecución de los sistemas provistos por IEA cumplen con las condiciones de las normas internacionales ISO 9001, en curso de certificación, manteniendo una permanente actualización de los procesos y técnicas empleados.
-
-[<a href="https://www.iea.com.ar/"> 
-    <img src="assets/iea.webp" style=" border-radius: 20px; border: 2px solid #095FC8; width: 700px; margin-top: 20px; margin-left: 80px;margin-bottom: 30px"/>
-</a>](image.png)
-
-## SOLUCIONES
-Proporciona soluciones que incluyen
-
-* **Hardware personalizado**: Crean los diseños y fabrican el hardware adecuado según las necesidades de los procesos de cada cliente.
-
-* **Automatización**: Sus proyectos ayudan a minimizar la participación humana para maximizar la eficiencia y rapidez de los procesos, minimizando, además, el riesgo para los trabajadores.
-
-* **Software**: Crean e implementan el software que utilizan sus productos con una prueba de calidad adecuada para garantizar su correcto funcionamiento y eficiencia.
-
-* **Mantenimiento**: Ofrece la posibilidad de contratar un servicio de diagnóstico, mantenimiento y soporte técnico para sus equipos 24x365.
-
-[<img src="assets/trazabilidad.png" style=" width: 600px; margin-top: 20px; margin-left: 100px;margin-bottom: 30px"/>](image.png)
-
-
-## CLIENTES 
-La empresa actualmente lidera innovaciones y proyectos en puertos, plantas de molienda y almacenamiento de granos
-
-Integra soluciones de empresas como *Siemems*, *Rockwell* y *Schneider Electric*, siendo esta ultima la primer Alliance Partner Schneider Electric en la region Sudamericana.
-
-Proveen servicios a clientes como Bunge, Cargill, Cofco, AFA, General Motors, YPF y Aguas Santafesinas, con *1250 clientes totales* 
-[<img src="assets/clientes.png" style=" border-radius: 20px; width: 600px; margin-top: 20px; margin-left: 100px;margin-bottom: 30px"/>](image.png)
-
-## CERTIFICACIONES
-
-* AVEVA integrator (2006)
-
-* Process Control PCS-7 Siemens (2024)
-
-* Rockwell Solution Provider Plant PAX (En proceso)
-
-* Phoenix Contact SP
-
-* TÜV Functional Safety for Process Industry IEC 61511 / 
-61508
-
-* ISO 9001 : 2015 para Servicios de Contratos de 
-Mantenimiento de Ingeniería
-
-* Belden: Hirschmann Industrial Ethernet Specialist (HIES – 2023)
-
-* PI OSIsoft sistem integrator (En proceso)
-
-* GE Digital iFix Solution Provider (En proceso)
-
-## ALCANCE
-La sede principal se encuentra en **Rosario** (Av. Eva Perón 4468) 
-
-Poseen representación comercial en **Montevideo** (Uruguay), **San Pablo** (Brasil), **Ciudad del Este** (Paraguay) y **Barcelona** (España), habiendo participado en proyectos alrededor del mundo, en *Asia*, *Norteamérica* y *Europa*
-
-[<img src="assets/alcance.png" style=" width: 600px; margin-top: 20px; margin-left: 100px "/>](image.png)
+> La ingeniería y la ejecución de los sistemas provistos por IEA cumplen con los requisitos de las normas internacionales **ISO 9001** —actualmente en proceso de certificación—, manteniendo una actualización permanente de los procesos y técnicas empleados.
 
 ---
-## PROYECTOS Y APLICACIONES DESTACADOS
 
-* GrainVision (software de termometria de granos almacenados)
-* Co2ntrol (deteccion temprana de Co2 en grano almacenado)
-* Calador Automatico
-* [otros grandes proyectos](https://www.iea.com.ar/proyectos/)
+## Soluciones
 
-[<img src="assets/grafico.png" style=" width: 600px; margin-left: 100px; margin-top: 20px "/>](image.png)
+IEA ofrece un portfolio integral de soluciones adaptadas a las necesidades de cada cliente:
 
----
-## PRODUCTOS Y SISTEMAS
+- **Hardware personalizado**: Diseño y fabricación de hardware a medida, adecuado a los requerimientos específicos de cada proceso productivo.
 
-[<img src="assets/productos.png" style="  width: 700px; margin-top: 20px; margin-left: 80px; margin-bottom: 30px"/>](image.png)
+- **Automatización**: Proyectos orientados a minimizar la intervención humana para maximizar la eficiencia y velocidad de los procesos, reduciendo al mismo tiempo los riesgos para los trabajadores.
 
-IEA maneja la producción y venta de una gran variedad de productos electrónicos como:
-* [Equipos de obtención de datos](https://www.iea.com.ar/categoria-producto/equipamiento-de-adquisicion-de-datos/)
+- **Software industrial**: Desarrollo e implementación de software con pruebas de calidad rigurosas, que garantizan el correcto funcionamiento y la eficiencia de cada solución.
 
-[<img src="https://www.iea.com.ar/wp-content/uploads/2017/11/MI_61_LINEAL.jpg" style=" width: 200px; margin-left: 50px;  margin-bottom: 20px "/>](image.png)
-
-* [Fuentes de tensión](https://www.iea.com.ar/categoria-producto/fuentes-de-tension/)
-
-[<img src="https://www.iea.com.ar/wp-content/uploads/2017/11/FUENTE_TENSION_CCH-300x300.jpg" style=" width: 200px; margin-left: 50px;  margin-bottom: 20px "/>](image.png)
-
-* [Instrumentos de medicion y control](https://www.iea.com.ar/categoria-producto/instrumentos-de-medicion-y-control/)
-
-[<img src="https://www.iea.com.ar/wp-content/uploads/2018/04/CN670-300x300.jpg" style=" width: 200px; margin-left: 50px;  margin-bottom: 20px "/>](image.png)
-
-* [Sensores, transmisores y transductores](https://www.iea.com.ar/categoria-producto/sensores-accesorios/sensores/)
-
-[<img src="https://www.iea.com.ar/wp-content/uploads/2025/10/SUP5063-4-T-300x300.jpg" style=" width: 200px; margin-left: 50px;  margin-bottom: 20px "/>](image.png)
-[<img src="https://www.iea.com.ar/wp-content/uploads/2026/04/yoyo10_sinfondo_main-300x300.jpg" style=" width: 200px; margin-left: 50px;  margin-bottom: 20px "/>](image.png)
-
-* [Accesorios](https://www.iea.com.ar/categoria-producto/sensores-accesorios/)
-
-[<img src="https://www.iea.com.ar/wp-content/uploads/2018/04/IMG_20180404_160504-300x300.jpg" style=" width: 200px; margin-left: 50px "/>](image.png)
-
-* Equipos de radioenlace y redes de comunicación.
-
-* PLC  y sistemas de control distribuido.
-
-* RTU / Unidad Terminal Remota.
-
-* Sistemas SCADA.
-
-* Controles y aplicaciones especiales.
-
-* Consolas y tableros de control, tableros de CCM y distribución.
-
-* Analizadores en línea para diversos tipos de procesos.
+- **Mantenimiento y soporte**: Servicio de diagnóstico, mantenimiento y soporte técnico para equipos con disponibilidad **24×365**.
 
 ---
-## PAGINA
-Para mas informacion, puedes visitar [Ingenieria Electrónica Argentina](https://www.iea.com.ar/)
+
+## Clientes
+
+IEA lidera innovaciones y proyectos en puertos, plantas de molienda y almacenamiento de granos. Integra soluciones de empresas líderes como *Siemens*, *Rockwell* y *Schneider Electric*, siendo esta última la primera **Alliance Partner de Schneider Electric** en la región sudamericana.
+
+Entre sus clientes se encuentran organizaciones de primer nivel como **Bunge, Cargill, Cofco, AFA, General Motors, YPF** y **Aguas Santafesinas**, con un total de *1.250 clientes* en cartera.
+
+---
+
+## Certificaciones
+
+| Certificación | Estado |
+|---|---|
+| AVEVA Integrator | 2006 |
+| Process Control PCS-7 Siemens | 2024 |
+| Belden: Hirschmann Industrial Ethernet Specialist (HIES) | 2023 |
+| ISO 9001:2015 — Servicios de Contratos de Mantenimiento de Ingeniería | Vigente |
+| TÜV Functional Safety for Process Industry IEC 61511 / 61508 | Vigente |
+| Phoenix Contact SP | Vigente |
+| Rockwell Solution Provider Plant PAX | En proceso |
+| PI OSIsoft System Integrator | En proceso |
+| GE Digital iFix Solution Provider | En proceso |
+
+---
+
+## Alcance geográfico
+
+La sede principal de IEA se encuentra en **Rosario, Argentina** (Av. Eva Perón 4468). La empresa cuenta con representación comercial en:
+
+- **Montevideo**, Uruguay
+- **San Pablo**, Brasil
+- **Ciudad del Este**, Paraguay
+- **Barcelona**, España
+
+IEA ha participado en proyectos en diversas regiones del mundo, incluyendo **Asia**, **Norteamérica** y **Europa**.
+
+---
+
+## Proyectos y aplicaciones destacados
+
+- **GrainVision**: Software de termometría para granos almacenados.
+- **Co2ntrol**: Sistema de detección temprana de CO₂ en granos almacenados.
+- **Calador Automático**: Solución automatizada para el muestreo de granos.
+- [Ver más proyectos →](https://www.iea.com.ar/proyectos/)
+
+---
+
+## Productos y sistemas
+
+IEA comercializa una amplia gama de productos y sistemas electrónicos, entre los que se incluyen:
+
+- [Equipos de adquisición de datos](https://www.iea.com.ar/categoria-producto/equipamiento-de-adquisicion-de-datos/)
+- [Fuentes de tensión](https://www.iea.com.ar/categoria-producto/fuentes-de-tension/)
+- [Instrumentos de medición y control](https://www.iea.com.ar/categoria-producto/instrumentos-de-medicion-y-control/)
+- [Sensores, transmisores y transductores](https://www.iea.com.ar/categoria-producto/sensores-accesorios/sensores/)
+- [Accesorios](https://www.iea.com.ar/categoria-producto/sensores-accesorios/)
+- Equipos de radioenlace y redes de comunicación
+- PLC y sistemas de control distribuido
+- RTU / Unidades Terminales Remotas
+- Sistemas SCADA
+- Controles y aplicaciones especiales
+- Consolas, tableros de control, tableros de CCM y distribución
+- Analizadores en línea para diversos tipos de procesos
+
+---
+
+Para más información, visitá el sitio oficial: [www.iea.com.ar](https://www.iea.com.ar/)
