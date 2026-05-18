@@ -8,6 +8,10 @@ La empresa promueve la sostenibilidad y el bien social a través de proyectos qu
 
 > La ingeniería y la ejecución de los sistemas provistos por IEA cumplen con los requisitos de las normas internacionales **ISO 9001** —actualmente en proceso de certificación—, manteniendo una actualización permanente de los procesos y técnicas empleados.
 
+[<a href="https://www.iea.com.ar/"> 
+    <img src="assets/iea.webp" style=" border-radius: 20px; border: 2px solid #095FC8; width: 700px; margin-top: 20px; margin-left: 80px;margin-bottom: 30px"/>
+</a>](image.png)
+
 ---
 
 ## Soluciones
@@ -20,7 +24,9 @@ IEA ofrece un portfolio integral de soluciones adaptadas a las necesidades de ca
 
 - **Software industrial**: Desarrollo e implementación de software con pruebas de calidad rigurosas, que garantizan el correcto funcionamiento y la eficiencia de cada solución.
 
-- **Mantenimiento y soporte**: Servicio de diagnóstico, mantenimiento y soporte técnico para equipos con disponibilidad **24×365**.
+- **Mantenimiento y soporte**: Agregable, servicio de diagnóstico, mantenimiento y soporte técnico para equipos con disponibilidad **24×365**.
+
+[<img src="assets/trazabilidad.png" style=" width: 600px; margin-top: 20px; margin-left: 100px;margin-bottom: 30px"/>](image.png)
 
 ---
 
@@ -28,13 +34,15 @@ IEA ofrece un portfolio integral de soluciones adaptadas a las necesidades de ca
 
 IEA lidera innovaciones y proyectos en puertos, plantas de molienda y almacenamiento de granos. Integra soluciones de empresas líderes como *Siemens*, *Rockwell* y *Schneider Electric*, siendo esta última la primera **Alliance Partner de Schneider Electric** en la región sudamericana.
 
-Entre sus clientes se encuentran organizaciones de primer nivel como **Bunge, Cargill, Cofco, AFA, General Motors, YPF** y **Aguas Santafesinas**, con un total de *1.250 clientes* en cartera.
+Entre sus clientes se encuentran organizaciones de primer nivel como **Bunge, Cargill, Cofco, AFA, General Motors, YPF** y **Aguas Santafesinas**, con un total de *1.250 clientes*.
+
+[<img src="assets/clientes.png" style=" border-radius: 20px; width: 600px; margin-top: 20px; margin-left: 100px;margin-bottom: 30px"/>](image.png)
 
 ---
 
 ## Certificaciones
 
-| Certificación | Estado |
+| | |
 |---|---|
 | AVEVA Integrator | 2006 |
 | Process Control PCS-7 Siemens | 2024 |
@@ -59,6 +67,8 @@ La sede principal de IEA se encuentra en **Rosario, Argentina** (Av. Eva Perón 
 
 IEA ha participado en proyectos en diversas regiones del mundo, incluyendo **Asia**, **Norteamérica** y **Europa**.
 
+[<img src="assets/alcance.png" style=" width: 600px; margin-top: 20px; margin-left: 100px "/>](image.png)
+
 ---
 
 ## Proyectos y aplicaciones destacados
@@ -67,6 +77,8 @@ IEA ha participado en proyectos en diversas regiones del mundo, incluyendo **Asi
 - **Co2ntrol**: Sistema de detección temprana de CO₂ en granos almacenados.
 - **Calador Automático**: Solución automatizada para el muestreo de granos.
 - [Ver más proyectos →](https://www.iea.com.ar/proyectos/)
+
+[<img src="assets/grafico.png" style=" width: 600px; margin-left: 100px; margin-top: 20px "/>](image.png)
 
 ---
 
@@ -86,6 +98,8 @@ IEA comercializa una amplia gama de productos y sistemas electrónicos, entre lo
 - Controles y aplicaciones especiales
 - Consolas, tableros de control, tableros de CCM y distribución
 - Analizadores en línea para diversos tipos de procesos
+
+[<img src="assets/productos.png" style="  width: 700px; margin-top: 20px; margin-left: 80px; margin-bottom: 30px"/>](image.png)
 
 ---
 
